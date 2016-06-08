@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:56.967214
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 摩醯首羅天法要
 #+PROPERTY: CBETA_ID T21n1279
 #+PROPERTY: ID KR6j0510
