@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:56.967214
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 摩醯首羅天法要
 #+PROPERTY: CBETA_ID T21n1279
 #+PROPERTY: ID KR6j0510
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1279
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0510_T_000-0339c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0510_T_001-0339c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1279¶
-
- 摩醯首羅天法要¶
+No. 1279¶
+摩醯首羅天法要¶
 ¶
 
 爾時摩醯首羅天。於天上與諸天女遊戲化¶
